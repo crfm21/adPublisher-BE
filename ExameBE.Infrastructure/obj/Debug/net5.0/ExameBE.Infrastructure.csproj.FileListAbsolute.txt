@@ -1,0 +1,15 @@
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ExameBE.Infrastructure.deps.json
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ExameBE.Infrastructure.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ref/ExameBE.Infrastructure.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ExameBE.Infrastructure.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/bin/Debug/net5.0/ExameBE.Domain.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.csproj.AssemblyReference.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.AssemblyInfoInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.AssemblyInfo.cs
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.csproj.CopyComplete
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ref/ExameBE.Infrastructure.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Infrastructure/obj/Debug/net5.0/ExameBE.Infrastructure.pdb

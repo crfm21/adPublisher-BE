@@ -1,0 +1,12 @@
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/bin/Debug/net5.0/ExameBE.Domain.deps.json
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/bin/Debug/net5.0/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/bin/Debug/net5.0/ref/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/bin/Debug/net5.0/ExameBE.Domain.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.AssemblyInfoInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.AssemblyInfo.cs
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.csproj.CoreCompileInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ref/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/obj/Debug/net5.0/ExameBE.Domain.csproj.AssemblyReference.cache

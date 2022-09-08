@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TpwZKwVYHTBSGPESEMMMQ3Q4T49H+8DJfxECfSbByuL47l4lnGJ4InTjVwq3vwZY29Vu5zh1AAtCR+9ToSbzA==",
+  "success": true,
+  "projectFilePath": "/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Domain/ExameBE.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/cintiamendes/.nuget/packages/microsoft.aspnetcore.http.features/5.0.0/microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "/Users/cintiamendes/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/cintiamendes/.nuget/packages/system.io.pipelines/5.0.0/system.io.pipelines.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

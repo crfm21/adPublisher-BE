@@ -1,0 +1,17 @@
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Services.deps.json
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Services.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ref/ExameBE.Services.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Services.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Domain.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Infrastructure.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Infrastructure.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/bin/Debug/net5.0/ExameBE.Domain.pdb
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.csproj.AssemblyReference.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.AssemblyInfoInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.AssemblyInfo.cs
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.csproj.CoreCompileInputs.cache
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.csproj.CopyComplete
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ref/ExameBE.Services.dll
+/Users/cintiamendes/Projects/CodeDEV/Exame/CintiaM-ExameBE/ExameBE.Services/obj/Debug/net5.0/ExameBE.Services.pdb
